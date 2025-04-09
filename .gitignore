@@ -4,3 +4,4 @@ response/
 __pycache__/
 zsxq_posts/
 config.py
+lastrun.txt

@@ -1,0 +1,8 @@
+# 知识星球访问令牌，从浏览器Cookie中获取，通常以"ABCDEF-XXXX-XXXX-XXXX-XXXXXXXXXXXX_XXXXXXXXXXXXXXXX"格式
+zsxq_access_token='YOUR_ACCESS_TOKEN_HERE'
+
+# 知识星球ID，从URL中获取，如: https://wx.zsxq.com/dweb2/index/group/88888558554112 中的数字部分
+group_id='YOUR_GROUP_ID_HERE'
+
+# 浏览器用户代理，可在浏览器中访问 https://www.whatismybrowser.com/detect/what-is-my-user-agent/ 获取
+user_agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36' 
