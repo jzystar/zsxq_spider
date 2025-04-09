@@ -3,3 +3,4 @@ response/
 .vscode/
 __pycache__/
 zsxq_posts/
+config.py
